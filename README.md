@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My web sites (in Japanese)
+## My web sites
 
 - blog: https://hakasenote.hnishi.com/
 - jupyter notebooks: https://jupyterbook.hnishi.com/
