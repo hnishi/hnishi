@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## My web sites (in Japanese)
+
+- blog: https://hakasenote.hnishi.com/
+- jupyter notebooks: https://jupyterbook.hnishi.com/
+
 <!--
 **hnishi/hnishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
